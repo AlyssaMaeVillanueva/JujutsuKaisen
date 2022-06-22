@@ -276,6 +276,9 @@
     margin: 20px 50px;
    text-decoration: none;
 }
+.card h2 {
+    padding: 0 10px;
+}
 .card:hover {
     background-color: red;
     color: white;
